@@ -20,4 +20,6 @@ File 9-easter_egg.py is a Python code that prints this
 
 File 10-check_cycle.c is a C function that that checks if a singly linked list has a cycle in it.
 
+File 100-write.py is a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+
 
