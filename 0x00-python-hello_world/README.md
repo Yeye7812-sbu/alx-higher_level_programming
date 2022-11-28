@@ -14,4 +14,6 @@ File 6-concat.py contains a Python code that prints Welcome to Holberton School!
 
 File 7-edges.py is a program with exactly 8 lines long
 
+File 8-concat_edges.py is a Python code that prints object-oriented programming with Python, followed by a new line
+
 
