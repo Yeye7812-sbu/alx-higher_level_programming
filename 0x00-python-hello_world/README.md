@@ -6,4 +6,6 @@ File 2-print.py is a a Python script that prints exactly "Programming is like bu
 
 File 3-print_number.py is a python code that prints the integer stored in the variable number, followed by Battery street, followed by a new line
 
+File 4-print_float.py is a Python code that prints  the float stored in the variable number with a precision of 2 digits
+
 
