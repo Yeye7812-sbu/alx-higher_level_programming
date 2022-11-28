@@ -8,4 +8,6 @@ File 3-print_number.py is a python code that prints the integer stored in the va
 
 File 4-print_float.py is a Python code that prints  the float stored in the variable number with a precision of 2 digits
 
+File 5-print_string.py is a Python code that prints 3 times a string stored in the variable str, followed by its first 9 characters
+
 
