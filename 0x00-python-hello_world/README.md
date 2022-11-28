@@ -12,4 +12,6 @@ File 5-print_string.py is a Python code that prints 3 times a string stored in t
 
 File 6-concat.py contains a Python code that prints Welcome to Holberton School!
 
+File 7-edges.py is a program with exactly 8 lines long
+
 
