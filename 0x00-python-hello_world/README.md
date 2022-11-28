@@ -10,4 +10,6 @@ File 4-print_float.py is a Python code that prints  the float stored in the vari
 
 File 5-print_string.py is a Python code that prints 3 times a string stored in the variable str, followed by its first 9 characters
 
+File 6-concat.py contains a Python code that prints Welcome to Holberton School!
+
 
