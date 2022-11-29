@@ -24,4 +24,4 @@ File 100-write.py is a Python script that prints exactly and that piece of art i
 
 File 101-compile a script that compiles a Python script file.
 
-
+File 102-magic_calculation.py writes  the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode
