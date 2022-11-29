@@ -26,4 +26,11 @@ File 12-fizzbuzz.py is a function that prints the numbers from 1 to 100 separate
 
 File 13-insert_number.c is a function in C that inserts a number into a sorted singly linked list.
 
+File 100-print_tebahpla.py is a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line
+
+File 100-print_tebahpla.py is a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
+
+File 101-remove_char_at.py is a function that creates a copy of the string, removing the character at the position n.
+
+File 102-magic_calculation.py is a Python function def magic_calculation(a, b, c).
 
