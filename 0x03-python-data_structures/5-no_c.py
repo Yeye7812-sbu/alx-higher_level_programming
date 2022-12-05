@@ -1,11 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+no_c = __import__('5-no_c').no_c
 
-def no_c(my_string):
-    """
-    removes all characters 'c' and 'C' from s
-    """
-    new_str = ""
-    for i in my_string:
-        if i not in "cC":
-            new_str += i
-    return (new_str)i
+print(no_c("Best School"))
+print(no_c("Chicago"))
+print(no_c("C is fun!"))
