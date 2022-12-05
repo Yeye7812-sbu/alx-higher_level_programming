@@ -20,4 +20,12 @@ File 9-max_integer.py is a function that finds the biggest integer of a list.
 
 File 10-divisible_by_2.py is a function that finds all multiples of 2 in a list.
 
+File 11-delete_at.py is a function that deletes the item at a specific position in a list.
 
+File 12-switch.py is the source code in order to switch value of a and b
+
+File 13-is_palindrome.c a function in C that checks if a singly linked list is a palindrome.
+
+File 100-print_python_list_info.c is a function that prints some basic info about Python lists.
+
+File lists.h contains the prototype for task 13.
