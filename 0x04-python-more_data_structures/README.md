@@ -23,3 +23,11 @@ File 10-best_score.py contains a function that returns a key with the biggest in
 File 11-multiply_list_map.py contains a function that returns a list with all values multiplied by a number without using any loops.
 
 File 12-roman_to_int.py contains a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+
+File 100-weight_average.py contains  a function that returns the weighted average of all integers tuple (<score>, <weight>)
+
+File 101-square_matrix_map.py contains a function that computes the square value of all integers of a matrix using map
+
+File 102-complex_delete.py contains a function that deletes keys with a specific value in a dictionary.
+
+File 103-python.c contains wo C functions that print some basic info about Python lists and Python bytes objects.
