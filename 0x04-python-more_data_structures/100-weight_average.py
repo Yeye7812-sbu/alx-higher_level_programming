@@ -1,8 +1,13 @@
 #!/usr/bin/python3
 
 def weight_average(my_list=[]):
-    if len(my_list) is 0:
-        return 0
-    a = list(map(list, zip(*my_list)))
-    b = [x * y for x, y in zip(a[0], a[1])]
-    return sum(b) / sum(a[1]
+    """Return the weighted average of all integers in a list of tuples."""
+    if not isinstance(my_list, list) or len(my_list) == 0:
+        return (0)
+
+    avg = 0
+    size = 0
+    for tup in my_list:
+        avg += (tup[0] * tup[1])
+        size += tup[1]
+    return (avg / size)
