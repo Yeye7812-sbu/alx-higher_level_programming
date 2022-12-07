@@ -20,4 +20,6 @@ File 9-multiply_by_2.py contains a function that returns a new dictionary with a
 
 File 10-best_score.py contains a function that returns a key with the biggest integer value.
 
+File 11-multiply_list_map.py contains a function that returns a list with all values multiplied by a number without using any loops.
 
+File 12-roman_to_int.py contains a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
